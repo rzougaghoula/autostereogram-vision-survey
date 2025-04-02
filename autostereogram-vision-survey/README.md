@@ -1,6 +1,6 @@
 # Autostereogram Visual Perception Survey
 
-This is a personal project I conducted during high school, aiming to explore how different linear spacings in **autostereograms** affect human recognition accuracy and response time. Although the project was initiated in my earlier learning stage, I intentionally kept the original ideas, language, and mistakes to reflect the learning process and growth.
+This is a personal project I conducted during high school (July 2023), aiming to explore how different linear spacings in **autostereograms** affect human recognition accuracy and response time. Although the project was initiated in my earlier learning stage, I intentionally kept the original ideas, language, and mistakes to reflect the learning process and growth.
 
 > [View the Poster](./poster.pdf) — A quick overview of the project
 
