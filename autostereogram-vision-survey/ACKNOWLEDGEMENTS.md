@@ -4,7 +4,7 @@ This project was conducted during my high school studies as a personal explorati
 
 I would like to sincerely thank the following individuals and resources:
 
-- **[同学姓名或缩写]**: For helping me process and organize the participant data in Excel format.
+- **My Classmates**: For helping me process and organize the participant data in Excel format.
 - **Participants**: For taking the time to complete the questionnaire and provide valuable feedback.
 - **Easy Stereogram Builder** (https://www.easystereogrambuilder.com/): For inspiration and some of the stereogram image generation methods.
 - **Stinson, L.** and the article ["The hidden history of Magic Eye"](https://eyeondesign.aiga.org/the-hidden-history-of-magic-eye-the-optical-illusion-that-briefly-took-over-the-world/): Provided background insights into the origins of autostereograms.
